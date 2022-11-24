@@ -5,6 +5,7 @@
     <RootNamespace>Famecipe.Models</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <RepositoryUrl>https://github.com/Famecipe/models</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
